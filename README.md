@@ -96,10 +96,12 @@ Add a "read more" link beside "Create account" that launches a modal with more i
     ![](images/7-2.png?raw=true)
 4. Go to `index.html` and change `<link href="css/bootstrap.css" rel="stylesheet" media="screen">` to `<link href="less/bootstrap.css" rel="stylesheet" media="screen">`
 5. Open `less/variables.less` and try change some variables. Maybe `@body-bg: #fff;` to `@body-bg: #ff228a;`?
-6. Go to Less.app, click `Compiler` and then `Compile all`.
+6. Go to Less.app, click `Compiler` and then `Compile all`.  
+    ![](images/7-3.png?raw=true)
+    ![](images/7-4.png?raw=true)
 7. Reload your browser. Voila!
 8. Go to step 5, and start make your site beautiful!
 
-![](images/7-3.png?raw=true)
+![](images/7-5.png?raw=true)
 
-I guess that's it. Awesome work! Feel free to show me your result :)
+I guess that's it. Awesome work! Feel free to show me your site :)
