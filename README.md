@@ -16,6 +16,11 @@ Questions? Grab me or [ping @javve at Twitter](https://twitter.com/javve).
 * Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) ex  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
 * Note: See `class="img-responsive"`? [Read more at getbootstrap.com](http://getbootstrap.com/css/#overview-responsive-images)
 
+#### Errors?
+
+If you find any errors (spelling or whatever), please make a __pull request__ (I know Daniel have taught you) or at least [post an issue](https://github.com/javve/bootstrap-workshop/issues/new).
+
+
 ## Assignment 1: Grid
 
 Create a grid that has four columns, independent of screen size. Then put images inside them. [Read more at getbootstrap.com](http://getbootstrap.com/css/#grid)
