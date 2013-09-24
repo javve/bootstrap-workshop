@@ -18,7 +18,7 @@ Questions? Grab me or [ping @javve at Twitter](https://twitter.com/javve).
 
 #### Errors?
 
-If you find any errors (spelling or whatever), please make a __pull request__ (I know Daniel have taught you) or at least [post an issue](https://github.com/javve/bootstrap-workshop/issues/new).
+If you find any errors (spelling or whatever), please make a __pull request__ (extra points!) or at least [post an issue](https://github.com/javve/bootstrap-workshop/issues/new).
 
 
 ## Assignment 1: Grid
@@ -50,7 +50,7 @@ Improve the grid. It should have four columns for desktop, two for tablets and o
 ## Assignment 3: Navbar
 
 Add a responsive menu (navbar) to your site. [Read more at getbootstrap.com](http://getbootstrap.com/components/#navbar). It should container a name (brand)
-four items.
+four items. REMEBER THE ICONS! [Read more at getbootstrap.com](http://getbootstrap.com/components/#glyphicons)
 
 #### Large
 ![](images/3-1.png?raw=true)
@@ -70,26 +70,25 @@ Add a creat account form with a large create button. _Remember that Bootstrap su
 ![](images/4-1.png?raw=true)
 
 
-## Assignment 5: Tooltips and popovers
-
-Javascript!
-
-Time to name your images/kittens. Add [tooltips](http://getbootstrap.com/javascript/#tooltips) that tells the name of the image/kitten
-and then add [popovers](http://getbootstrap.com/javascript/#popovers) that show some information about the image you click on.
-
-To do this tasks you'll need to use Javascript. Add all code into `<script></script>` at the bottom of `index.html`, just before `</body>`.
-
-__Tips__: Easiest is probably to use `$('img').tooltip();` & `$('img').popover();` and then use `data-` attributes.
-
-![](images/5-1.png?raw=true)
-
-
-## Assignment 6: Modal
+## Assignment 5: Modal
 
 Add a "read more" link beside "Create account" that launches a modal with more info. [Read more at getbootstrap.com](http://getbootstrap.com/javascript/#modals)
 
+![](images/5-1.png?raw=true)
+![](images/5-2.png?raw=true)
+
+
+## Assignment 6: Tooltips
+
+Javascript!
+
+Time to name your images/kittens. Add [tooltips](http://getbootstrap.com/javascript/#tooltips) that tells the name of the image/kitten.
+
+To do this tasks you'll need to use Javascript. Add all code into `<script></script>` at the bottom of `index.html`, just before `</body>`.
+
+__Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` attributes.
+
 ![](images/6-1.png?raw=true)
-![](images/6-2.png?raw=true)
 
 
 ## Assignment 7: Styling with LESS CSS (hardcore)
