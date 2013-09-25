@@ -26,10 +26,10 @@ If you find any errors (spelling or whatever), please make a __pull request__ (e
 
 Create a grid that has four columns, independent of screen size. Then put images inside them. [Read more at getbootstrap.com](http://getbootstrap.com/css/#grid)
 
-#### Large
+#### How it should look at a large display (desktop)
 ![](images/1-1.png?raw=true)
 
-#### Small
+#### How it should look if you make the browser small as a mobile phone
 ![](images/1-2.png?raw=true)
 
 
@@ -37,13 +37,13 @@ Create a grid that has four columns, independent of screen size. Then put images
 
 Improve the grid. It should have four columns for desktop, two for tablets and one in mobile. [Read more at getbootstrap.com](http://getbootstrap.com/css/#grid)
 
-#### Large
+#### How it should look at a large display (desktop)
 ![](images/2-1.png?raw=true)
 
-#### Medium
+#### How it should look if you make the browser small as a tablet
 ![](images/2-2.png?raw=true)
 
-#### Small
+#### How it should look if you make the browser small as a mobile phone
 ![](images/2-3.png?raw=true)
 
 
@@ -53,13 +53,13 @@ Improve the grid. It should have four columns for desktop, two for tablets and o
 Add a responsive menu (navbar) to your site. [Read more at getbootstrap.com](http://getbootstrap.com/components/#navbar). It should container a name (brand)
 four items. REMEBER THE ICONS! [Read more at getbootstrap.com](http://getbootstrap.com/components/#glyphicons)
 
-#### Large
+#### How it should look at a large display (desktop)
 ![](images/3-1.png?raw=true)
 
-#### Small 1
+#### How it should look if you make the browser small as a mobile phone
 ![](images/3-2.png?raw=true)
 
-#### Small 2
+#### How it should look if you make the browser small as a mobile phone
 ![](images/3-3.png?raw=true)
 
 
