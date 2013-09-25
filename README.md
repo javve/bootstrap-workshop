@@ -12,6 +12,7 @@ Questions? Grab me or [ping @javve at Twitter](https://twitter.com/javve).
 
 #### Extra
 
+* If you get stuck with an assignment, ask for help or skip it!
 * Tips: Like the kittens? Use [PlaceKitten](http://placekitten.com/) ex  `<img src="http://placekitten.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
 * Tips 2: Think kittens are boring? Use [PlaceSheen](http://placesheen.com/) ex  `<img src="http://placesheen.com/400/300" class="img-responsive">` (change 400/300 to get other pictures)
 * Note: See `class="img-responsive"`? [Read more at getbootstrap.com](http://getbootstrap.com/css/#overview-responsive-images)
@@ -91,21 +92,8 @@ __Tips__: Easiest is probably to use `$('img').tooltip();` and then use `data-` 
 ![](images/6-1.png?raw=true)
 
 
-## Assignment 7: Styling with LESS CSS (hardcore)
+## Assignment 7: Update your own site
 
-1. Go to [http://incident57.com/less/](http://incident57.com/less/), download `less.app` then open it.
-2. Add the files in `/less` by clicking the + button.  
-    ![](images/7-1.png?raw=true)
-3. Make sure only `bootstrap.less` is checked.  
-    ![](images/7-2.png?raw=true)
-4. Go to `index.html` and change `<link href="css/bootstrap.css" rel="stylesheet" media="screen">` to `<link href="less/bootstrap.css" rel="stylesheet" media="screen">`
-5. Open `less/variables.less` and try change some variables. Maybe `@body-bg: #fff;` to `@body-bg: #ff228a;`?
-6. Go to Less.app, click `Compiler` and then `Compile all`.  
-    ![](images/7-3.png?raw=true)
-    ![](images/7-4.png?raw=true)
-7. Reload your browser. Voila!
-8. Go to step 5, and start make your site beautiful!
-
-![](images/7-5.png?raw=true)
+Add Bootstrap to the site you've been building the last two days, and update the elements so they look Bootstrap-ish (add classes & stuff).
 
 I guess that's it. Awesome work! Feel free to show me your site :)
